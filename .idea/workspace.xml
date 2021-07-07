@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="160d218f-a9cc-4c2a-93c6-3e9834644c18" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1fXPpjYW7vl8eo92q5ZAKzMkjbD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tests/react-Wowcher-Test 2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="$USER_HOME$/.nvm/versions/node/v13.8.0/bin/node" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3358" y="352" width="696" height="479" key="#ESLint" timestamp="1596362465384">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3358" y="352" width="696" height="479" key="#ESLint/2560.0.2560.1440/5120.0.2560.1440/0.0.2560.1414@2560.0.2560.1440" timestamp="1596362465384" />
+    <state x="3523" y="445" width="626" height="525" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1596455656339">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3523" y="445" width="626" height="525" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/2560.0.2560.1440/5120.0.2560.1440/0.0.2560.1414@2560.0.2560.1440" timestamp="1596455656339" />
+    <state x="3623" y="465" width="688" height="867" key="FileChooserDialogImpl" timestamp="1596465519459">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3623" y="465" width="688" height="867" key="FileChooserDialogImpl/2560.0.2560.1440/5120.0.2560.1440/0.0.2560.1414@2560.0.2560.1440" timestamp="1596465519459" />
+    <state x="3344" y="342" key="SettingsEditor" timestamp="1596455637265">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3344" y="342" key="SettingsEditor/2560.0.2560.1440/5120.0.2560.1440/0.0.2560.1414@2560.0.2560.1440" timestamp="1596455637265" />
+    <state x="3490" y="325" width="692" height="766" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1596365364147">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3490" y="325" width="692" height="766" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/2560.0.2560.1440/5120.0.2560.1440/0.0.2560.1414@2560.0.2560.1440" timestamp="1596365364147" />
+    <state x="3546" y="451" width="587" height="512" key="find.popup" timestamp="1596443814880">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3546" y="451" width="587" height="512" key="find.popup/2560.0.2560.1440/5120.0.2560.1440/0.0.2560.1414@2560.0.2560.1440" timestamp="1596443814880" />
+    <state x="3503" y="322" width="672" height="678" key="search.everywhere.popup" timestamp="1596364026331">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3503" y="322" width="672" height="678" key="search.everywhere.popup/2560.0.2560.1440/5120.0.2560.1440/0.0.2560.1414@2560.0.2560.1440" timestamp="1596364026331" />
+  </component>
+</project>

@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+  font-size: 12px;
+}
+
+ul {
+  background-color: #fff;
+  border-radius: 4px;
+  padding: 8px;
+}
+
+li {
+  background-color: #333;
+  color: #eee;
+  border-radius: 3px;
+  margin: 2px;
+  padding: 4px;
+  list-style: none;
+}
+
+h3 {
+  display: block;
+  margin: 0 0 4px 0;
+  font-weight: bold;
+}

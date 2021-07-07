@@ -1,0 +1,8 @@
+.chatwindow {
+  text-align: center;
+  height: 800px;
+  width: 700px;
+  overflow-x: auto;
+  border: 1px solid #ababab;
+  margin: 10px auto;
+}
